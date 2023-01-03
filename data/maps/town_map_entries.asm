@@ -116,4 +116,5 @@ InternalMapEntries:
 	internal_map ROCK_TUNNEL_B1F,               14,  3, RockTunnelName
 	internal_map SILPH_CO_ELEVATOR,             10,  5, SilphCoName
 	internal_map AGATHAS_ROOM,                   0,  2, PokemonLeagueName
+	internal_map FROST_CAVERN,                   7, 10, FrostCavernName
 	db -1 ; end

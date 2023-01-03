@@ -1219,3 +1219,8 @@ INCLUDE "data/maps/headers/AgathasRoom.asm"
 INCLUDE "scripts/AgathasRoom.asm"
 INCLUDE "data/maps/objects/AgathasRoom.asm"
 AgathasRoom_Blocks: INCBIN "maps/AgathasRoom.blk"
+
+INCLUDE "data/maps/headers/FrostCavern.asm"
+INCLUDE "scripts/FrostCavern.asm"
+INCLUDE "data/maps/objects/FrostCavern.asm"
+FrostCavern_Blocks: INCBIN "maps/FrostCavern.blk"
