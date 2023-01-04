@@ -260,6 +260,8 @@ INCLUDE "text/FuchsiaCity.asm"
 INCLUDE "text/CinnabarIsland.asm"
 INCLUDE "text/SaffronCity.asm"
 INCLUDE "text/FrostCavern.asm"
+INCLUDE "text/FrostDock.asm"
+INCLUDE "text/PalletDock.asm"
 
 INCLUDE "data/text/text_6.asm"
 

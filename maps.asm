@@ -1224,3 +1224,13 @@ INCLUDE "data/maps/headers/FrostCavern.asm"
 INCLUDE "scripts/FrostCavern.asm"
 INCLUDE "data/maps/objects/FrostCavern.asm"
 FrostCavern_Blocks: INCBIN "maps/FrostCavern.blk"
+
+INCLUDE "data/maps/headers/FrostDock.asm"
+INCLUDE "scripts/FrostDock.asm"
+INCLUDE "data/maps/objects/FrostDock.asm"
+FrostDock_Blocks: INCBIN "maps/FrostDock.blk"
+
+INCLUDE "data/maps/headers/PalletDock.asm"
+INCLUDE "scripts/PalletDock.asm"
+INCLUDE "data/maps/objects/PalletDock.asm"
+PalletDock_Blocks: INCBIN "maps/PalletDock.blk"

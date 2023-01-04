@@ -16,6 +16,8 @@ MapHSPointers:
 	dw SaffronCityHS
 	dw NoHS
 	dw NoHS
+	dw NoHS
+	dw NoHS
 	dw Route2HS
 	dw NoHS
 	dw Route4HS
@@ -248,7 +250,6 @@ MapHSPointers:
 	dw NoHS
 	dw NoHS
 	dw UnusedMapF4HS
-	dw NoHS
 	dw NoHS
 	dw NoHS
 	dw NoHS

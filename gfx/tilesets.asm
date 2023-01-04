@@ -61,3 +61,8 @@ Club_GFX::          INCBIN "gfx/tilesets/club.2bpp"
 Club_Block::        INCBIN "gfx/blocksets/club.bst"
 Underground_GFX::   INCBIN "gfx/tilesets/underground.2bpp"
 Underground_Block:: INCBIN "gfx/blocksets/underground.bst"
+
+SECTION "Tilesets 4", ROMX
+
+IndoorPort_GFX::    INCBIN "gfx/tilesets/indoor_port.2bpp"
+IndoorPort_Block::  INCBIN "gfx/blocksets/indoor_port.bst"

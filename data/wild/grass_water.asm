@@ -11,7 +11,9 @@ WildDataPointers:
 	dw NothingWildMons         ; CINNABAR_ISLAND
 	dw NothingWildMons         ; INDIGO_PLATEAU
 	dw NothingWildMons         ; SAFFRON_CITY
-	dw NothingWildMons         ; unused
+	dw NothingWildMons         ; FROST_CAVERN
+	dw NothingWildMons         ; FROST_DOCK
+	dw NothingWildMons         ; PALLET_DOCK
 	dw Route1WildMons          ; ROUTE_1
 	dw Route2WildMons          ; ROUTE_2
 	dw Route3WildMons          ; ROUTE_3
@@ -233,7 +235,6 @@ WildDataPointers:
 	dw NothingWildMons
 	dw NothingWildMons
 	dw RockTunnelB1FWildMons
-	dw NothingWildMons
 	dw NothingWildMons
 	dw NothingWildMons
 	dw NothingWildMons

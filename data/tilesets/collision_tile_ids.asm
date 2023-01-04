@@ -68,3 +68,6 @@ Facility_Coll::
 
 Plateau_Coll::
 	coll_tiles $1b, $23, $2c, $2d, $3b, $45
+
+IndoorPort_Coll::
+	coll_tiles $0a, $1a, $32, $3b, $5E

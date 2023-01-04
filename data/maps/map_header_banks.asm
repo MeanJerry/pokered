@@ -12,7 +12,10 @@ MapHeaderBanks::
 	db BANK(CinnabarIsland_h)
 	db BANK(IndigoPlateau_h)
 	db BANK(SaffronCity_h)
-	db $01 ; UNUSED_MAP_0B
+	db BANK(FrostCavern_h)
+	db BANK(FrostDock_h)
+	db BANK(PalletDock_h)
+	;db $01 ; UNUSED_MAP_0B
 	db BANK(Route1_h)
 	db BANK(Route2_h)
 	db BANK(Route3_h)
@@ -249,5 +252,4 @@ MapHeaderBanks::
 	db BANK(LoreleisRoom_h)
 	db BANK(BrunosRoom_h)
 	db BANK(AgathasRoom_h)
-	db BANK(FrostCavern_h)
 	assert_table_length NUM_MAPS
