@@ -22,6 +22,8 @@ ExternalMapEntries:
 	external_map  7, 10, FrostCavernName
 	external_map  7, 10, TransportDockName ; FROST_DOCK
 	external_map  2, 11, TransportDockName ; PALLET_DOCK
+	external_map  7, 10, FrostCavernName ; FROST_SUMMIT
+	external_map  7, 10, FrostCavernName ; FROST_PEAK
 	external_map  2, 10, Route1Name
 	external_map  2,  6, Route2Name
 	external_map  4,  3, Route3Name

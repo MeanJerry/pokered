@@ -14,6 +14,8 @@ WildDataPointers:
 	dw NothingWildMons         ; FROST_CAVERN
 	dw NothingWildMons         ; FROST_DOCK
 	dw NothingWildMons         ; PALLET_DOCK
+	dw NothingWildMons         ; FROST_SUMMIT
+	dw NothingWildMons         ; FROST_PEAK
 	dw Route1WildMons          ; ROUTE_1
 	dw Route2WildMons          ; ROUTE_2
 	dw Route3WildMons          ; ROUTE_3

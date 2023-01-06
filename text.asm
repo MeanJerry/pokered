@@ -262,6 +262,12 @@ INCLUDE "text/SaffronCity.asm"
 INCLUDE "text/FrostCavern.asm"
 INCLUDE "text/FrostDock.asm"
 INCLUDE "text/PalletDock.asm"
+INCLUDE "text/FrostCavern1B.asm"
+INCLUDE "text/FrostCavern1F.asm"
+INCLUDE "text/FrostCavern2F.asm"
+INCLUDE "text/FrostCavern3F.asm"
+INCLUDE "text/FrostSummit.asm"
+INCLUDE "text/FrostPeak.asm"
 
 INCLUDE "data/text/text_6.asm"
 

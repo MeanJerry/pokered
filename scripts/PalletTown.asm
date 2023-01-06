@@ -156,6 +156,9 @@ PalletTown_TextPointers:
 	dw PalletTownText5
 	dw PalletTownText6
 	dw PalletTownText7
+	dw PalletTownText8
+	dw PalletTownText9
+	dw PalletTownText10
 
 PalletTownText1:
 	text_asm
@@ -211,4 +214,16 @@ PalletTownText6: ; sign by Red's house
 
 PalletTownText7: ; sign by Blue's house
 	text_far _PalletTownText7
+	text_end
+
+PalletTownText8: ; Coming Soon Sign
+	text_far _PalletTownText8
+	text_end
+
+PalletTownText9: ; Coming Soon Sign
+	text_far _PalletTownText9
+	text_end
+
+PalletTownText10:
+	text_far _PalletTownText10
 	text_end

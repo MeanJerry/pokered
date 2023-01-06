@@ -54,3 +54,15 @@ _PalletTownText6::
 _PalletTownText7::
 	text "<RIVAL>'s house "
 	done
+
+_PalletTownText8::
+_PalletTownText9::
+	text "COMING SOON!"
+	para "Tell MeanJerry"
+	line "to hurry up!"
+	done
+
+_PalletTownText10::
+	text "PALLET TOWN DOCK"
+	line "Express sailing!"
+	done

@@ -16,7 +16,7 @@ ENDM
 ; Each map also has associated data in maps.asm.
 ; Order: towns/cities, then routes, then indoor/dungeon maps
 	const_def
-	map_const PALLET_TOWN,                   10,  9 ; $00
+	map_const PALLET_TOWN,                   20,  9 ; $00
 	map_const VIRIDIAN_CITY,                 20, 18 ; $01
 	map_const PEWTER_CITY,                   20, 18 ; $02
 	map_const CERULEAN_CITY,                 20, 18 ; $03
@@ -31,7 +31,9 @@ DEF NUM_CITY_MAPS EQU const_value
 	map_const FROST_CAVERN,                  16,  9 
 	map_const FROST_DOCK,                     6,  6
 	map_const PALLET_DOCK,                    6,  6
-	;map_const UNUSED_MAP_0B,                  0,  0 ; $0B
+	map_const FROST_SUMMIT,                  10, 27
+	map_const FROST_PEAK,                    10, 27
+	
 DEF FIRST_ROUTE_MAP EQU const_value
 	map_const ROUTE_1,                       10, 18 ; $0C
 	map_const ROUTE_2,                       10, 36 ; $0D
@@ -263,10 +265,10 @@ DEF FIRST_INDOOR_MAP EQU const_value
 	map_const UNUSED_MAP_EE,                  0,  0 ; $EE
 	map_const TRADE_CENTER,                   5,  4 ; $EF
 	map_const COLOSSEUM,                      5,  4 ; $F0
-	map_const UNUSED_MAP_F1,                  0,  0 ; $F1
-	map_const UNUSED_MAP_F2,                  0,  0 ; $F2
-	map_const UNUSED_MAP_F3,                  0,  0 ; $F3
-	map_const UNUSED_MAP_F4,                  0,  0 ; $F4
+	map_const FROST_CAVERN_1B,                5,  7 ; $F1
+	map_const FROST_CAVERN_1F,               20, 10 ; $F2
+	map_const FROST_CAVERN_2F,               20,  9 ; $F3
+	map_const FROST_CAVERN_3F,               10, 27 ; $F4
 	map_const LORELEIS_ROOM,                  5,  6 ; $F5
 	map_const BRUNOS_ROOM,                    5,  6 ; $F6
 	map_const AGATHAS_ROOM,                   5,  6 ; $F7

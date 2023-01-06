@@ -1234,3 +1234,33 @@ INCLUDE "data/maps/headers/PalletDock.asm"
 INCLUDE "scripts/PalletDock.asm"
 INCLUDE "data/maps/objects/PalletDock.asm"
 PalletDock_Blocks: INCBIN "maps/PalletDock.blk"
+
+INCLUDE "data/maps/headers/FrostCavern1B.asm"
+INCLUDE "scripts/FrostCavern1B.asm"
+INCLUDE "data/maps/objects/FrostCavern1B.asm"
+FrostCavern1B_Blocks: INCBIN "maps/FrostCavern1B.blk"
+
+INCLUDE "data/maps/headers/FrostCavern1F.asm"
+INCLUDE "scripts/FrostCavern1F.asm"
+INCLUDE "data/maps/objects/FrostCavern1F.asm"
+FrostCavern1F_Blocks: INCBIN "maps/FrostCavern1F.blk"
+
+INCLUDE "data/maps/headers/FrostCavern2F.asm"
+INCLUDE "scripts/FrostCavern2F.asm"
+INCLUDE "data/maps/objects/FrostCavern2F.asm"
+FrostCavern2F_Blocks: INCBIN "maps/FrostCavern2F.blk"
+
+INCLUDE "data/maps/headers/FrostCavern3F.asm"
+INCLUDE "scripts/FrostCavern3F.asm"
+INCLUDE "data/maps/objects/FrostCavern3F.asm"
+FrostCavern3F_Blocks: INCBIN "maps/FrostCavern3F.blk"
+
+INCLUDE "data/maps/headers/FrostSummit.asm"
+INCLUDE "scripts/FrostSummit.asm"
+INCLUDE "data/maps/objects/FrostSummit.asm"
+FrostSummit_Blocks: INCBIN "maps/FrostSummit.blk"
+
+INCLUDE "data/maps/headers/FrostPeak.asm"
+INCLUDE "scripts/FrostPeak.asm"
+INCLUDE "data/maps/objects/FrostPeak.asm"
+FrostPeak_Blocks: INCBIN "maps/FrostPeak.blk"

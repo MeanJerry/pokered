@@ -15,6 +15,8 @@ MapHeaderBanks::
 	db BANK(FrostCavern_h)
 	db BANK(FrostDock_h)
 	db BANK(PalletDock_h)
+	db BANK(FrostSummit_h)
+	db BANK(FrostPeak_h)
 	;db $01 ; UNUSED_MAP_0B
 	db BANK(Route1_h)
 	db BANK(Route2_h)
@@ -245,10 +247,10 @@ MapHeaderBanks::
 	db $11 ; UNUSED_MAP_EE
 	db BANK(TradeCenter_h)
 	db BANK(Colosseum_h)
-	db $11 ; UNUSED_MAP_F1
-	db $11 ; UNUSED_MAP_F2
-	db $11 ; UNUSED_MAP_F3
-	db $11 ; UNUSED_MAP_F4
+	db BANK(FrostCavern1B_h)
+	db BANK(FrostCavern1F_h)
+	db BANK(FrostCavern2F_h)
+	db BANK(FrostCavern3F_h)
 	db BANK(LoreleisRoom_h)
 	db BANK(BrunosRoom_h)
 	db BANK(AgathasRoom_h)

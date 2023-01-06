@@ -15,6 +15,8 @@ MapHeaderPointers::
 	dw FrostCavern_h
 	dw FrostDock_h
 	dw PalletDock_h
+	dw FrostSummit_h
+	dw FrostPeak_h
 	;dw SaffronCity_h ; UNUSED_MAP_0B
 	dw Route1_h
 	dw Route2_h
@@ -245,10 +247,10 @@ MapHeaderPointers::
 	dw SilphCo2F_h ; UNUSED_MAP_EE
 	dw TradeCenter_h
 	dw Colosseum_h
-	dw SilphCo2F_h ; UNUSED_MAP_F1
-	dw SilphCo2F_h ; UNUSED_MAP_F2
-	dw SilphCo2F_h ; UNUSED_MAP_F3
-	dw SilphCo2F_h ; UNUSED_MAP_F4
+	dw FrostCavern1B_h
+	dw FrostCavern1F_h
+	dw FrostCavern2F_h
+	dw FrostCavern3F_h
 	dw LoreleisRoom_h
 	dw BrunosRoom_h
 	dw AgathasRoom_h
