@@ -2,7 +2,7 @@ FrostCavern1B_Object:
 	db $3 ; border block (Full Black)
 
 	def_warp_events
-	warp_event  6,  1, FROST_CAVERN_1F, 1
+	warp_event  6,  1, FROST_CAVERN_1F, 6
 	warp_event  2,  3, FROST_CAVERN_1B, 2
 	warp_event  6,  4, FROST_CAVERN_1B, 3
 	warp_event  5,  7, FROST_CAVERN_1B, 4

@@ -53,7 +53,7 @@ PalletMovementScriptPointerTable::
 
 PalletMovementScript_OakMoveLeft:
 	ld a, [wXCoord]
-	sub $a
+	sub $1E
 	ld [wNumStepsToTake], a
 	jr z, .playerOnLeftTile
 ; The player is on the right tile of the northern path out of Pallet Town and

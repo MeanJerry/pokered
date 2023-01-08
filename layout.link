@@ -179,6 +179,7 @@ ROMX $2C
 	"Move Names"
 ROMX $2D
 	"Tilesets 4"
+	"Maps 22"
 WRAM0
 	"Audio RAM"
 	org $c100

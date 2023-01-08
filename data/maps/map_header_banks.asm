@@ -251,6 +251,7 @@ MapHeaderBanks::
 	db BANK(FrostCavern1F_h)
 	db BANK(FrostCavern2F_h)
 	db BANK(FrostCavern3F_h)
+	db BANK(FrostPeak2_h)
 	db BANK(LoreleisRoom_h)
 	db BANK(BrunosRoom_h)
 	db BANK(AgathasRoom_h)

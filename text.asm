@@ -268,6 +268,7 @@ INCLUDE "text/FrostCavern2F.asm"
 INCLUDE "text/FrostCavern3F.asm"
 INCLUDE "text/FrostSummit.asm"
 INCLUDE "text/FrostPeak.asm"
+INCLUDE "text/FrostPeak2.asm"
 
 INCLUDE "data/text/text_6.asm"
 

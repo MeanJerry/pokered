@@ -251,6 +251,7 @@ MapHeaderPointers::
 	dw FrostCavern1F_h
 	dw FrostCavern2F_h
 	dw FrostCavern3F_h
+	dw FrostPeak2_h
 	dw LoreleisRoom_h
 	dw BrunosRoom_h
 	dw AgathasRoom_h

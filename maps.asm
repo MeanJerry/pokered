@@ -1220,6 +1220,8 @@ INCLUDE "scripts/AgathasRoom.asm"
 INCLUDE "data/maps/objects/AgathasRoom.asm"
 AgathasRoom_Blocks: INCBIN "maps/AgathasRoom.blk"
 
+SECTION "Maps 22", ROMX
+
 INCLUDE "data/maps/headers/FrostCavern.asm"
 INCLUDE "scripts/FrostCavern.asm"
 INCLUDE "data/maps/objects/FrostCavern.asm"
@@ -1264,3 +1266,8 @@ INCLUDE "data/maps/headers/FrostPeak.asm"
 INCLUDE "scripts/FrostPeak.asm"
 INCLUDE "data/maps/objects/FrostPeak.asm"
 FrostPeak_Blocks: INCBIN "maps/FrostPeak.blk"
+
+INCLUDE "data/maps/headers/FrostPeak2.asm"
+INCLUDE "scripts/FrostPeak2.asm"
+INCLUDE "data/maps/objects/FrostPeak2.asm"
+FrostPeak2_Blocks: INCBIN "maps/FrostPeak2.blk"

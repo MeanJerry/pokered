@@ -268,7 +268,8 @@ DEF FIRST_INDOOR_MAP EQU const_value
 	map_const FROST_CAVERN_1B,                5,  7 ; $F1
 	map_const FROST_CAVERN_1F,               20, 10 ; $F2
 	map_const FROST_CAVERN_2F,               20,  9 ; $F3
-	map_const FROST_CAVERN_3F,               10, 27 ; $F4
+	map_const FROST_CAVERN_3F,                6, 27 ; $F4
+	map_const FROST_PEAK_2,                  10, 27
 	map_const LORELEIS_ROOM,                  5,  6 ; $F5
 	map_const BRUNOS_ROOM,                    5,  6 ; $F6
 	map_const AGATHAS_ROOM,                   5,  6 ; $F7

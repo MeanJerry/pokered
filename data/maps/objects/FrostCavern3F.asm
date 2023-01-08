@@ -6,8 +6,8 @@ FrostCavern3F_Object:
 	warp_event  4, 53, FROST_SUMMIT, 2
 	warp_event  5, 53, FROST_SUMMIT, 2
 	warp_event  4, 34, FROST_CAVERN_2F, 7
-	warp_event  9,  3, FROST_PEAK, 1
-	warp_event  9,  4, FROST_PEAK, 1
+	warp_event 11,  3, FROST_PEAK, 1
+	warp_event 11,  4, FROST_PEAK, 1
 
 	def_bg_events
 

@@ -1,5 +1,5 @@
 FrostSummit_Object:
-	db $19 ; border block (Stones)
+	db $13 ; border block (Stones)
 
 	def_warp_events
 	warp_event 16, 45, FROST_CAVERN_2F, 2

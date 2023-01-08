@@ -4,7 +4,7 @@ FrostCavern1F_Object:
 	def_warp_events
 	warp_event  6, 19, FROST_CAVERN, 2
 	warp_event  7, 19, FROST_CAVERN, 2
-	warp_event 31, 17, FROST_CAVERN_2F, 1
+	warp_event 31, 17, FROST_CAVERN_2F, 3
 	warp_event  2,  1, FROST_CAVERN_2F, 4
 	warp_event  3, 18, FROST_CAVERN_2F, 5
 	warp_event 36,  2, FROST_CAVERN_1B, 1
